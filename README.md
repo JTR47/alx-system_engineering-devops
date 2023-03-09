@@ -1,4 +1,4 @@
 #!/bin/bash
-Script discription
 
+# script discription 
 
